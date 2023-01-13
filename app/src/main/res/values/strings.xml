@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomAppBar</string>
+    <string name="what">java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX</string>
+    <string name="u1">1.Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)</string>
+    <string name="u2">2.It is one of the most popular programming language in the world)</string>
+    <string name="u3">3.It is easy to learn and simple to use</string>
+    <string name="out">You learned from the previous chapter that you can use the println() method to output values or print text in Java:</string>
+    <string name="com">Comments can be used to explain Java code, and to make it more readable. It can also be used to prevent execution when testing alternative code.</string>
+
+</resources>

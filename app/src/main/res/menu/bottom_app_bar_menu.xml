@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/homee"
+        android:title="home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="share"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/comment"
+        android:title="comment"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/Update"
+        android:title="Update"
+        app:showAsAction="withText"/>
+
+</menu>
